@@ -1,0 +1,64 @@
+.p-3{
+    background-color: rgb(249, 247, 249);
+}
+.bi-coin{
+    color: rgb(29, 197, 29);
+     padding: 1rem;
+     height: 80px;
+     width: 80px;
+     text-align: center;
+     font-size: 1.5rem;
+    border-radius: 50%;
+    background: rgb(185, 247, 185);
+}
+.bi-file-text{
+     color:rgb(175, 60, 247) ;
+    padding: 1rem;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    font-size: 1.5rem;
+   border-radius: 50%;
+   background: rgb(223, 185, 247);
+}
+.bi-wallet{
+    color: rgb(77, 68, 241);
+    padding: 1rem;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    font-size: 1.5rem;
+   border-radius: 50%;
+   background: rgb(180, 210, 246);
+}
+.bi-bag-dash{
+    color: rgb(249, 43, 43);
+    padding: 1rem;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    font-size: 1.5rem;
+   border-radius: 50%;
+   background: rgb(250, 193, 196);
+}
+.bi-arrow-up-short{
+    color: rgb(29, 197, 29);
+    font-family:'Arial' ;
+}
+.bi-arrow-down-short{
+    color: rgb(240, 34, 34);
+    font-family: 'Arial';
+}
+.heading{
+    color: rgb(137, 135, 135);
+    padding: 0.5rem;
+    font-size: small;
+    font-family: 'Arial';
+}
+h5{
+    padding: 0.5rem;
+    font-size:large;
+    padding-bottom:0.5px;
+    font-family: 'Arial';
+    border-color: rgb(246, 186, 245);
+}
